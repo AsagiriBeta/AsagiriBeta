@@ -63,6 +63,7 @@ const asagiri = {
 <br><br>
 
 <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsagiriBeta&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AsagiriBeta&theme=tokyonight&hide_border=true" />
 
 </div>
 
