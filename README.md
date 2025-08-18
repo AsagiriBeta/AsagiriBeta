@@ -7,7 +7,7 @@
 <br>
 
 [![Followers](https://img.shields.io/github/followers/AsagiriBeta?style=for-the-badge&label=Followers&color=0366d6&labelColor=000000)](https://github.com/AsagiriBeta?tab=followers)
-[![Visitors](https://visitor-badge.laobi.icu/badge?page_id=AsagiriBeta&left_color=000000&right_color=0366d6&style=for-the-badge)](https://visitor-badge.laobi.icu/badge?page_id=AsagiriBeta)
+[![Visitors](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/AsagiriBeta&title=Visitors&title_bg=000000&count_bg=0366d6&icon=github.svg&icon_color=FFFFFF&edge_flat=false)](https://hits.seeyoufarm.com)
 ![Status](https://img.shields.io/badge/Status-Undergraduate-0366d6?style=for-the-badge&labelColor=000000)
 ![Focus](https://img.shields.io/badge/Focus-Building%20Practical%20Projects-00d26a?style=for-the-badge&labelColor=000000)
 
