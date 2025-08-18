@@ -52,24 +52,6 @@
 
 ---
 
-### ✍️ Recent (Manual placeholders)
-- Refactored module layout for clarity
-- Added script to batch rename and format files
-- WIP: experimenting with a cleaner configuration pattern
-
-(Automate by a small script that updates this block before commit.)
-
----
-
-### 🧩 Code Preferences
-```text
-Prefer: clear naming > premature abstraction
-Value : structured logs, small focused modules, progressive refinement
-Mindset: ship a usable baseline, then iterate with metrics & feedback
-```
-
----
-
 ### 🔄 Extras
 <img src="https://raw.githubusercontent.com/AsagiriBeta/AsagiriBeta/output/github-contribution-grid-snake.svg" alt="contribution snake animation" />
 
@@ -77,15 +59,7 @@ Mindset: ship a usable baseline, then iterate with metrics & feedback
 
 ---
 
-### 💡 TODO
-- [ ] Replace Featured Projects with real links & concise value statements
-- [ ] Add a simple script to auto-update “Recent” and “Last refresh” date
-- [ ] Optionally add coverage / build badges for key repos
-- [ ] Decide if a separate README (e.g., README-lite.md) is useful for faster load
-
----
-
 <p align="center">
   <strong>Thanks for visiting!</strong><br/>
-  <sub>Last refresh: <!-- auto script can update this --> YYYY-MM-DD</sub>
+  <sub>Last refresh: <!-- auto script can update this --> 2025-8-18</sub>
 </p>
