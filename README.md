@@ -39,15 +39,6 @@
 
 ---
 
-### 🧪 Playground
-| Idea | Status | Note |
-|------|--------|------|
-| Lightweight task scheduler | WIP | Simple pluggable queue & timing core |
-| CLI utility bundle | ✅ Released | Unified flags, logging, colorized output |
-| Notes auto indexer | Draft | Parse repo comments → generate map file |
-
----
-
 <p align="center">
   <strong>Thanks for visiting!</strong><br/>
   <sub>Last refresh: <!-- auto script can update this --> 2025-8-18</sub>
