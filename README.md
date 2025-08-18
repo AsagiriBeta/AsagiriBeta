@@ -37,8 +37,6 @@
 | [TreeBarkAnalyzer](https://github.com/AsagiriBeta/TreeBarkAnalyzer) | Auto-detects trunk contours, extracts bark areas, calculates texture features and smoothness metrics, with batch processing, visualization, debugging and histogram stats. | Python | ![Stars](https://img.shields.io/github/stars/AsagiriBeta/TreeBarkAnalyzer?style=social) |
 | [Skyscraper-creater](https://github.com/AsagiriBeta/Skyscraper-creater) | A web tool for generating customizable Minecraft skyscraper litematic files | Python | ![Stars](https://img.shields.io/github/stars/AsagiriBeta/Skyscraper-creater?style=social) |
 
-
-
 ---
 
 ### 🧪 Playground
@@ -47,13 +45,6 @@
 | Lightweight task scheduler | WIP | Simple pluggable queue & timing core |
 | CLI utility bundle | ✅ Released | Unified flags, logging, colorized output |
 | Notes auto indexer | Draft | Parse repo comments → generate map file |
-
----
-
-### 🔄 Extras
-<img src="https://raw.githubusercontent.com/AsagiriBeta/AsagiriBeta/output/github-contribution-grid-snake.svg" alt="contribution snake animation" />
-
-> Generated via Platane/snk GitHub Action (runs on a schedule and commits the SVG).
 
 ---
 
