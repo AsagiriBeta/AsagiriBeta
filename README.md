@@ -11,10 +11,7 @@
 
 ### 🧭 About Me
 - 🎓 Undergraduate student
-- 🛠️ I enjoy turning small ideas into usable tools and iterating toward cleaner structure
 - 🕹️ Fun: Minecraft · Arknights
-- ⭐ I care more about project impact and maintainability than listing every technology
-- 🔍 Emphasis on clarity, incremental improvement, and readable code
 
 ---
 
@@ -38,7 +35,7 @@
 ### 📂 Featured Projects
 | Project | Description | Tech | Stars |
 |---------|-------------|------|-------|
-| [Project A](https://github.com/AsagiriBeta/PROJECT_A) | One-line: what problem it solves / value delivered | Python | ![Stars](https://img.shields.io/github/stars/AsagiriBeta/PROJECT_A?style=social) |
+| [Server-market]([https://github.com/AsagiriBeta/PROJECT_A](https://github.com/AsagiriBeta/Server-market)) | One-line: what problem it solves / value delivered | Kotlin | ![Stars](https://img.shields.io/github/stars/AsagiriBeta/PROJECT_A?style=social) |
 | [Project B](https://github.com/AsagiriBeta/PROJECT_B) | Example: course project evolved into a structured service | Java · Kotlin | ![Stars](https://img.shields.io/github/stars/AsagiriBeta/PROJECT_B?style=social) |
 | [Project C](https://github.com/AsagiriBeta/PROJECT_C) | Small developer helper / automation tool | Python | ![Stars](https://img.shields.io/github/stars/AsagiriBeta/PROJECT_C?style=social) |
 
