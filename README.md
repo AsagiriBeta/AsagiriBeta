@@ -18,8 +18,6 @@
 ### 🚀 Core Languages
 <img src="https://skillicons.dev/icons?i=python,java,kotlin" />
 
-> Focused set: languages I actually write and refine regularly.
-
 ---
 
 ### 📊 GitHub Stats
