@@ -35,7 +35,7 @@
 ### 📂 Featured Projects
 | Project | Description | Tech | Stars |
 |---------|-------------|------|-------|
-| [Server-market]([https://github.com/AsagiriBeta/PROJECT_A](https://github.com/AsagiriBeta/Server-market)) | One-line: what problem it solves / value delivered | Kotlin | ![Stars](https://img.shields.io/github/stars/AsagiriBeta/PROJECT_A?style=social) |
+| [Server-market](https://github.com/AsagiriBeta/Server-market) | One-line: what problem it solves / value delivered | Kotlin | ![Stars](https://img.shields.io/github/stars/AsagiriBeta/Server-market?style=social) |
 | [Project B](https://github.com/AsagiriBeta/PROJECT_B) | Example: course project evolved into a structured service | Java · Kotlin | ![Stars](https://img.shields.io/github/stars/AsagiriBeta/PROJECT_B?style=social) |
 | [Project C](https://github.com/AsagiriBeta/PROJECT_C) | Small developer helper / automation tool | Python | ![Stars](https://img.shields.io/github/stars/AsagiriBeta/PROJECT_C?style=social) |
 
