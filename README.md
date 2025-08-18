@@ -45,11 +45,20 @@ const asagiri = {
 
 ## 🛠️ Core Technologies
 
-<div align="center">
+<table>
+<tr>
+<td align="center">
   
 <img src="https://skillicons.dev/icons?i=python,java,kotlin&theme=dark" />
 
-</div>
+</td>
+<td align="center">
+  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsagiriBeta&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
+
+</td>
+</tr>
+</table>
 
 <br>
 
@@ -59,11 +68,6 @@ const asagiri = {
   
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=AsagiriBeta&show_icons=true&theme=tokyonight&rank_icon=percentile&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" />
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=AsagiriBeta&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ffa657&currStreakLabel=c9d1d9" />
-
-<br><br>
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsagiriBeta&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
-<img width="48%" src="https://github-readme-stats.vercel.app/api/wakatime?username=AsagiriBeta&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&layout=compact" />
 
 </div>
 
