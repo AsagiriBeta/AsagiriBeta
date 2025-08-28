@@ -67,7 +67,7 @@ const asagiri = {
 <div align="center">
   
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=AsagiriBeta&show_icons=true&theme=tokyonight&rank_icon=percentile&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" />
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=AsagiriBeta&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ffa657&currStreakLabel=c9d1d9" />
+<img width="48%" src="https://streak-stats.demolab.com?user=AsagiriBeta&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ffa657&currStreakLabel=c9d1d9" />
 
 </div>
 
