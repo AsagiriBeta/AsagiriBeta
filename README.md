@@ -2,65 +2,48 @@
   
 # Hi, I'm [AsagiriBeta](https://github.com/AsagiriBeta) 👋
 
-*Building the future, one project at a time*
+**Undergraduate in Biological Mathematics, Nanjing University**
+
+*I enjoy building practical tools — from quantitative biology workflows to game and server utilities.*
 
 <br>
 
 [![Followers](https://img.shields.io/github/followers/AsagiriBeta?style=for-the-badge&label=Followers&color=0366d6&labelColor=000000)](https://github.com/AsagiriBeta?tab=followers)
 ![Status](https://img.shields.io/badge/Status-Undergraduate-0366d6?style=for-the-badge&labelColor=000000)
-![Focus](https://img.shields.io/badge/Focus-Building%20Practical%20Projects-00d26a?style=for-the-badge&labelColor=000000)
+![Major](https://img.shields.io/badge/Major-Biological%20Mathematics-8a2be2?style=for-the-badge&labelColor=000000)
+![Focus](https://img.shields.io/badge/Focus-Practical%20Projects%20%26%20Quantitative%20Biology-00d26a?style=for-the-badge&labelColor=000000)
 [![Visitors](https://visitor-badge.laobi.icu/badge?page_id=AsagiriBeta&left_color=000000&right_color=0366d6&style=for-the-badge)](https://visitor-badge.laobi.icu/badge?page_id=AsagiriBeta)
 
 </div>
 
-<br>
+---
 
 ## 🧭 About Me
 
-<table>
-<tr>
-<td width="50%">
+- 🎓 **Undergraduate in Biological Mathematics** at Nanjing University  
+- 🧬 Interested in **quantitative biology**, **scientific / data computing**, and **tooling for research**
+- 🎮 Build **game‑related tools and server mods**, especially around Minecraft
+- 🔧 Enjoy turning ideas into **small, focused utilities** rather than large monoliths
 
-🎓 **Education**: Undergraduate student  
-🚀 **Focus**: Building practical projects  
-🎮 **Interests**: Minecraft · Arknights  
+---
 
-</td>
-<td width="50%">
+## 🔍 What I'm Working On
 
-```javascript
-const asagiri = {
-  code: ["Python", "Java", "Kotlin"],
-  focus: "Practical Development",
-  currentProject: "Server Market Mod",
-  funFact: "Love building worlds in Minecraft"
-};
-```
+- 🧪 **Scientific & data workflows**: modular pipelines for structure prediction, docking, and analysis  
+- 🧱 **Minecraft ecosystem tooling**: server plugins, mods, and utilities for automation and content creation  
+- 🧰 **Developer utilities**: small scripts for resource migration, data validation, and content generation  
 
-</td>
-</tr>
-</table>
+---
 
-<br>
+## 🛠️ Tech Stack
 
-## 🛠️ Core Technologies
+<div align="center">
 
-<table>
-<tr>
-<td align="center">
-  
-<img src="https://skillicons.dev/icons?i=python,java,kotlin&theme=dark" />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AsagiriBeta&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8)
 
-</td>
-<td align="center">
-  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsagiriBeta&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
+</div>
 
-</td>
-</tr>
-</table>
-
-<br>
+---
 
 ## 📊 GitHub Analytics
 
@@ -71,30 +54,14 @@ const asagiri = {
 
 </div>
 
-<br>
-
-## 🌟 Featured Projects
-
-<div align="center">
-
-| 🚀 Project | 📝 Description | 💻 Tech | ⭐ Stars |
-|:-----------|:----------------|:---------|:---------|
-| **[Server-market](https://github.com/AsagiriBeta/Server-market)** | Currency and Market Mod for Minecraft Server | `Kotlin` | ![Stars](https://img.shields.io/github/stars/AsagiriBeta/Server-market?style=flat-square&color=ffa657) |
-| **[TreeBarkAnalyzer](https://github.com/AsagiriBeta/TreeBarkAnalyzer)** | Auto-detects trunk contours, extracts bark areas, calculates texture features and smoothness metrics | `Python` | ![Stars](https://img.shields.io/github/stars/AsagiriBeta/TreeBarkAnalyzer?style=flat-square&color=ffa657) |
-| **[Skyscraper-creater](https://github.com/AsagiriBeta/Skyscraper-creater)** | Web tool for generating customizable Minecraft skyscraper litematic files | `Python` | ![Stars](https://img.shields.io/github/stars/AsagiriBeta/Skyscraper-creater?style=flat-square&color=ffa657) |
-
-</div>
-
-<br>
-
 ---
 
 <div align="center">
   
 ### 💫 *Thanks for visiting my profile!*
 
-*Building tomorrow's solutions today*
+*Building tomorrow's tools today — with math, biology, and code.*
 
-<sub>📅 Last updated: 2025-08-18</sub>
+<sub>📅 Last updated: 2025-12-09</sub>
 
 </div>
