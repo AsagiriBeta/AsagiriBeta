@@ -1,60 +1,67 @@
-<div align="center">
-  
-# Hi, I'm [AsagiriBeta](https://github.com/AsagiriBeta) 👋
+<p align="center">
+  <img src="./assets/header.svg" alt="Asagiri — Biological Mathematics, Nanjing University" width="880">
+</p>
 
-**Undergraduate in Biological Mathematics, Nanjing University**
+<p align="center">
+  <a href="https://github.com/AsagiriBeta"><img src="https://img.shields.io/github/followers/AsagiriBeta?style=flat-square&label=Follow&labelColor=071018&color=5eead4" alt="GitHub followers"></a>
+  <img src="https://img.shields.io/badge/NJU-Biological_Mathematics-5eead4?style=flat-square&labelColor=071018" alt="Nanjing University">
+  <img src="https://img.shields.io/badge/Focus-Public_tools-93c5fd?style=flat-square&labelColor=071018" alt="Focus">
+</p>
 
-*I enjoy building practical tools — from quantitative biology workflows to game and server utilities.*
+I build small, focused tools on two tracks: **quantitative biology** (structure, docking, research data) and **Minecraft server infrastructure** (proxies, economy, generation, AI helpers). The preference is a sharp utility over a sprawling monolith.
 
-<br>
+## Now
 
-[![Followers](https://img.shields.io/github/followers/AsagiriBeta?style=for-the-badge&label=Followers&color=0366d6&labelColor=000000)](https://github.com/AsagiriBeta?tab=followers)
-![Status](https://img.shields.io/badge/Status-Undergraduate-0366d6?style=for-the-badge&labelColor=000000)
-![Major](https://img.shields.io/badge/Major-Biological%20Mathematics-8a2be2?style=for-the-badge&labelColor=000000)
-![Focus](https://img.shields.io/badge/Focus-Practical%20Projects%20%26%20Quantitative%20Biology-00d26a?style=for-the-badge&labelColor=000000)
-[![Visitors](https://visitor-badge.laobi.icu/badge?page_id=AsagiriBeta&left_color=000000&right_color=0366d6&style=for-the-badge)](https://visitor-badge.laobi.icu/badge?page_id=AsagiriBeta)
+- Protein and data workflows that can run on Colab or a laptop
+- Paper / Velocity / Fabric tooling for servers that need to stay operable
+- Short scripts for migration, validation, and content generation
 
-</div>
+## Selected work
 
----
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Lab</h3>
+      <p>
+        <a href="https://github.com/AsagiriBeta/ProtFlow"><strong>ProtFlow</strong></a><br>
+        Structure prediction, pocket detection, ligand docking, and BGC annotation.
+      </p>
+      <p>
+        <a href="https://github.com/AsagiriBeta/TreeBarkAnalyzer"><strong>TreeBarkAnalyzer</strong></a><br>
+        Trunk contours, bark regions, texture features, and batch visualization.
+      </p>
+      <p>
+        <a href="https://github.com/AsagiriBeta/Database-Downloader"><strong>Database-Downloader</strong></a><br>
+        Fetch and keep research databases in a repeatable local workflow.
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>World</h3>
+      <p>
+        <a href="https://github.com/AsagiriBeta/Embedize"><strong>Embedize</strong></a><br>
+        Custom 3D terrain, biomes, and bundled vanilla structure generation.
+      </p>
+      <p>
+        <a href="https://github.com/AsagiriBeta/Server-market"><strong>Server-market</strong></a><br>
+        Currency and market systems for Minecraft servers.
+      </p>
+      <p>
+        <a href="https://github.com/AsagiriBeta/Velocity-LLM"><strong>Velocity-LLM</strong></a><br>
+        Proxy-side <code>@ai</code> assistant with RAG over local documents.
+      </p>
+    </td>
+  </tr>
+</table>
 
-## 🧭 About Me
+## Analytics
 
-- 🎓 **Undergraduate in Biological Mathematics** at Nanjing University  
-- 🧬 Interested in **quantitative biology**, **scientific / data computing**, and **tooling for research**
-- 🎮 Build **game‑related tools and server mods**, especially around Minecraft
-- 🔧 Enjoy turning ideas into **small, focused utilities** rather than large monoliths
+All public repositories on this account, including forks. Cards are SVG files in this repo, refreshed weekly by GitHub Actions, so they do not depend on a third-party stats host.
 
----
+<p align="center">
+  <img src="./assets/overview.svg" alt="Public repository snapshot" width="49%">
+  <img src="./assets/languages.svg" alt="Language share across public repositories" width="49%">
+</p>
 
-## 🔍 What I'm Working On
-
-- 🧪 **Scientific & data workflows**: modular pipelines for structure prediction, docking, and analysis  
-- 🧱 **Minecraft ecosystem tooling**: server plugins, mods, and utilities for automation and content creation  
-- 🧰 **Developer utilities**: small scripts for resource migration, data validation, and content generation  
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=AsagiriBeta&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ffa657&currStreakLabel=c9d1d9" />
-
-<br><br>
-
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AsagiriBeta&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-<div align="center">
-  
-### 💫 *Thanks for visiting my profile!*
-
-*Building tomorrow's tools today — with math, biology, and code.*
-
-<sub>📅 Last updated: 2025-12-09</sub>
-
-</div>
+<p align="center">
+  <sub>Language share uses GitHub Linguist byte volume. Workflow: <code>.github/workflows/profile-stats.yml</code></sub>
+</p>

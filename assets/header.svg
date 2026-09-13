@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="196" viewBox="0 0 880 196" role="img" aria-label="Asagiri - Biological Mathematics, Nanjing University">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#071018"/>
+      <stop offset="52%" stop-color="#0b1c28"/>
+      <stop offset="100%" stop-color="#0f2f33"/>
+    </linearGradient>
+    <linearGradient id="wave" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#5eead4" stop-opacity="0"/>
+      <stop offset="42%" stop-color="#5eead4" stop-opacity="0.32"/>
+      <stop offset="100%" stop-color="#93c5fd" stop-opacity="0.1"/>
+    </linearGradient>
+    <clipPath id="card">
+      <rect width="880" height="196" rx="18"/>
+    </clipPath>
+  </defs>
+  <g clip-path="url(#card)">
+    <rect width="880" height="196" fill="url(#bg)"/>
+    <circle cx="742" cy="8" r="92" fill="#5eead4" opacity="0.07"/>
+    <circle cx="828" cy="128" r="74" fill="#93c5fd" opacity="0.08"/>
+    <circle cx="688" cy="168" r="56" fill="#c4b5fd" opacity="0.06"/>
+    <path d="M0 144 C 86 126, 148 166, 228 148 C 308 130, 368 116, 448 136 C 528 156, 608 168, 708 144 C 788 126, 842 134, 880 126 L 880 196 L 0 196 Z" fill="url(#wave)"/>
+    <path d="M0 160 C 108 146, 188 172, 286 156 C 384 140, 472 128, 562 148 C 652 168, 762 154, 880 144 L 880 196 L 0 196 Z" fill="#5eead4" opacity="0.06"/>
+    <g transform="translate(36, 48)" fill="none" stroke="#5eead4" stroke-width="1.4">
+      <circle cx="22" cy="22" r="22" opacity="0.9"/>
+      <circle cx="22" cy="22" r="13" opacity="0.55"/>
+      <circle cx="22" cy="22" r="4.5" fill="#5eead4" stroke="none"/>
+      <circle cx="38" cy="10" r="3.2" fill="#93c5fd" stroke="none" opacity="0.9"/>
+      <circle cx="8" cy="34" r="2.4" fill="#c4b5fd" stroke="none" opacity="0.9"/>
+    </g>
+    <text x="100" y="62" fill="#8ba4b4" font-family="ui-sans-serif, Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="12" font-weight="600" letter-spacing="3.2">MORNING MIST / LAB NOTES</text>
+    <text x="100" y="104" fill="#e7f3f0" font-family="ui-sans-serif, Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="36" font-weight="700">Asagiri</text>
+    <text x="100" y="132" fill="#9fb6c3" font-family="ui-sans-serif, Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="15">Biological Mathematics / Nanjing University</text>
+    <g font-family="ui-sans-serif, Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="11.5" font-weight="600">
+      <rect x="100" y="148" width="148" height="26" rx="13" fill="#10262c" stroke="#1c3d4a"/>
+      <text x="174" y="165" text-anchor="middle" fill="#5eead4">Quantitative biology</text>
+      <rect x="256" y="148" width="142" height="26" rx="13" fill="#10262c" stroke="#1c3d4a"/>
+      <text x="327" y="165" text-anchor="middle" fill="#93c5fd">Server tooling</text>
+      <rect x="406" y="148" width="128" height="26" rx="13" fill="#10262c" stroke="#1c3d4a"/>
+      <text x="470" y="165" text-anchor="middle" fill="#c4b5fd">Small utilities</text>
+    </g>
+  </g>
+  <rect width="880" height="196" rx="18" fill="none" stroke="#1c3d4a" stroke-width="1.2"/>
+</svg>
