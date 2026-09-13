@@ -11,19 +11,19 @@
   <text x="28" y="64" fill="#e7f3f0" font-family="ui-sans-serif, Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="20" font-weight="700">Language share</text>
   <text x="28" y="86" fill="#8ba4b4" font-family="ui-sans-serif, Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="12">Public originals and forks · by code volume</text>
   <g>
-  <path d="M 108.00 110.00 A 78.00 78.00 0 1 1 49.61 239.72 L 72.07 219.83 A 48.00 48.00 0 1 0 108.00 140.00 Z" fill="#b07219" stroke="#071018" stroke-width="1.4"/><path d="M 49.61 239.72 A 78.00 78.00 0 0 1 30.62 178.21 L 60.38 181.98 A 48.00 48.00 0 0 0 72.07 219.83 Z" fill="#3572A5" stroke="#071018" stroke-width="1.4"/><path d="M 30.62 178.21 A 78.00 78.00 0 0 1 44.08 143.30 L 68.66 160.49 A 48.00 48.00 0 0 0 60.38 181.98 Z" fill="#A97BFF" stroke="#071018" stroke-width="1.4"/><path d="M 44.08 143.30 A 78.00 78.00 0 0 1 71.49 119.07 L 85.53 145.58 A 48.00 48.00 0 0 0 68.66 160.49 Z" fill="#f1e05a" stroke="#071018" stroke-width="1.4"/><path d="M 71.49 119.07 A 78.00 78.00 0 0 1 84.55 113.61 L 93.57 142.22 A 48.00 48.00 0 0 0 85.53 145.58 Z" fill="#DA5B0B" stroke="#071018" stroke-width="1.4"/><path d="M 84.55 113.61 A 78.00 78.00 0 0 1 96.05 110.92 L 100.64 140.57 A 48.00 48.00 0 0 0 93.57 142.22 Z" fill="#e16737" stroke="#071018" stroke-width="1.4"/><path d="M 96.05 110.92 A 78.00 78.00 0 0 1 108.00 110.00 L 108.00 140.00 A 48.00 48.00 0 0 0 100.64 140.57 Z" fill="#64748b" stroke="#071018" stroke-width="1.4"/>
+  <path d="M 108.00 110.00 A 78.00 78.00 0 1 1 49.96 240.10 L 72.28 220.06 A 48.00 48.00 0 1 0 108.00 140.00 Z" fill="#b07219" stroke="#071018" stroke-width="1.4"/><path d="M 49.96 240.10 A 78.00 78.00 0 0 1 30.64 178.03 L 60.39 181.86 A 48.00 48.00 0 0 0 72.28 220.06 Z" fill="#3572A5" stroke="#071018" stroke-width="1.4"/><path d="M 30.64 178.03 A 78.00 78.00 0 0 1 44.15 143.20 L 68.71 160.43 A 48.00 48.00 0 0 0 60.39 181.86 Z" fill="#A97BFF" stroke="#071018" stroke-width="1.4"/><path d="M 44.15 143.20 A 78.00 78.00 0 0 1 71.54 119.05 L 85.56 145.57 A 48.00 48.00 0 0 0 68.71 160.43 Z" fill="#f1e05a" stroke="#071018" stroke-width="1.4"/><path d="M 71.54 119.05 A 78.00 78.00 0 0 1 84.59 113.60 L 93.59 142.21 A 48.00 48.00 0 0 0 85.56 145.57 Z" fill="#DA5B0B" stroke="#071018" stroke-width="1.4"/><path d="M 84.59 113.60 A 78.00 78.00 0 0 1 96.06 110.92 L 100.66 140.57 A 48.00 48.00 0 0 0 93.59 142.21 Z" fill="#e16737" stroke="#071018" stroke-width="1.4"/><path d="M 96.06 110.92 A 78.00 78.00 0 0 1 108.00 110.00 L 108.00 140.00 A 48.00 48.00 0 0 0 100.66 140.57 Z" fill="#64748b" stroke="#071018" stroke-width="1.4"/>
   <text x="108" y="184" text-anchor="middle" fill="#e7f3f0" font-family="ui-sans-serif, Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="16" font-weight="700">63%</text>
   <text x="108" y="202" text-anchor="middle" fill="#8ba4b4" font-family="ui-sans-serif, Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="10">Java</text>
   <g>
   <rect x="208" y="109" width="8" height="8" rx="2" fill="#b07219"/>
   <text x="224" y="118" fill="#e7f3f0" font-family="ui-sans-serif, Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="12">Java</text>
-  <text x="392" y="118" fill="#8ba4b4" font-family="ui-sans-serif, Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="12" text-anchor="end">63.5%</text>
+  <text x="392" y="118" fill="#8ba4b4" font-family="ui-sans-serif, Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="12" text-anchor="end">63.4%</text>
   <rect x="208" y="124" width="184" height="3" rx="1.5" fill="#10222c"/>
   <rect x="208" y="124" width="94" height="3" rx="1.5" fill="#b07219"/>
 </g><g>
   <rect x="208" y="131" width="8" height="8" rx="2" fill="#3572A5"/>
   <text x="224" y="140" fill="#e7f3f0" font-family="ui-sans-serif, Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="12">Python</text>
-  <text x="392" y="140" fill="#8ba4b4" font-family="ui-sans-serif, Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="12" text-anchor="end">13.5%</text>
+  <text x="392" y="140" fill="#8ba4b4" font-family="ui-sans-serif, Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="12" text-anchor="end">13.7%</text>
   <rect x="208" y="146" width="184" height="3" rx="1.5" fill="#10222c"/>
   <rect x="208" y="146" width="20" height="3" rx="1.5" fill="#3572A5"/>
 </g><g>
